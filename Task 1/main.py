@@ -6,7 +6,7 @@ from sklearn.metrics import r2_score
 
 
 # --- configs ---
-TRAINING_PART = .1  # part of the data used for training
+TRAINING_PART = .9  # part of the data used for training
 TEST_PART = .1  # part of the data used for testing
 
 
